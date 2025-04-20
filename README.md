@@ -1,8 +1,8 @@
----
+
 
 ## ✅ Objective
 
-Estimate carbon emissions from each dataset by:
+# Estimate carbon emissions from each dataset by:
 1. Mapping to GHG Scope and Category
 2. Applying correct emission factors
 3. Merging with organizational structure
