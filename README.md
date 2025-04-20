@@ -16,25 +16,25 @@ To calculate the carbon footprint across different emissions scopes using provid
 
 ## 📦 Data Structure
 
-📁 raw_data/
+project-root/
+├── raw_data/
 │   ├── biodiesel.xlsx
 │   ├── natural_gas_and_electricity.xlsx
 │   ├── upstream_transportation.xlsx
-│   ├── business_travel.xlsx
-│   └── ...
-📁 guides_and_dbs/
+│   └── business_travel.xlsx
+├── guides_and_dbs/
 │   ├── DEFRA_conversion-factors-2021.xlsm
 │   ├── BioGrace_standard_values.xlsm
 │   └── Technical Guidance for Scope 3 Emissions.pdf
-📁 outputs/
+├── outputs/
 │   ├── ghg_inventory_table.xlsx
 │   ├── transformation_steps.xlsx
 │   └── presentation_slides.pptx
-📁 notebooks/
+├── notebooks/
 │   ├── 01_scope1_biodiesel.ipynb
 │   ├── 02_scope2_energy.ipynb
 │   └── 03_scope3_upstream_transport.ipynb
-README.md
+└── README.md
 
 ---
 
