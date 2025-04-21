@@ -18,10 +18,18 @@ To calculate the carbon footprint across different emissions scopes using provid
 
 
 - `raw_data/`
-  - `biodiesel.xlsx`
-  - `natural_gas_and_electricity.xlsx`
+  - Scope1
+    - `biodiesel.xlsx`
+    - `fertilizer.xlsx`
+    - `natural_gas_and_electricity.xlsx`
+  - Scope2
+    - `natural_gas_and_electricity.xlsx`
+  - Scope3
   - `upstream_transportation.xlsx`
   - `business_travel.xlsx`
+  - `trading_and_imports.xlsx`
+  - `warehousing_spend.xlsx`
+  - `waste_disposal.xlsx`
 - `guides_and_dbs/`
   - `DEFRA_conversion-factors-2021.xlsm`
   - `BioGrace_standard_values.xlsm`
