@@ -1,4 +1,4 @@
-Category,Emissions(tCO2e)
-Biodiesel,1675134.205542
-Fertilizer,32162.96564727
-Natural Gas,8271.386776387226
+Scope,Category,Emissions(tCO2e)
+Scope 1,Biodiesel,1675134.205542
+Scope 1,Fertilizer,32162.96564727
+Scope 1,Natural Gas,8271.386776387226
